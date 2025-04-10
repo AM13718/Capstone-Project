@@ -1,12 +1,9 @@
-# React + Vite
+#Capstone Project for ALX Front End Dev.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is about creation of a amusic application by the use of React and Vite. The project has installed dependencies which as well include react-router-dom, typesript  and npm.
 
-Currently, two official plugins are available:
+The project can be able to play songs by the use of the audioRef tag and as well it is able to toggle around songs.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project is still in continuation to make it complete and to be able to load locally released songs.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Thank you.
